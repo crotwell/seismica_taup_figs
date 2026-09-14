@@ -1,0 +1,6 @@
+##packages needed##
+taup==3.2.2
+seaborn==0.13.2
+cartopy==0.25.0
+pandas
+#ellipticipy==1.0.1
